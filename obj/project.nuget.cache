@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3phkj0T3o7PCOopAY71wSNV62LO/ddMzm/xeKw5LWmEgHbIzcvSy7WdF6z+QrKHrWa4Ia3xDUta2poD05WsTIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dinka\\Downloads\\MEF_Sample__Simple_Calculator__Visual_Basic_\\SimpleCalculator2.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dinka\\.nuget\\packages\\instana.tracing.core\\1.1.55\\instana.tracing.core.1.1.55.nupkg.sha512",
+    "C:\\Users\\dinka\\.nuget\\packages\\instana.tracing.core.rewriter.linux\\1.1.3\\instana.tracing.core.rewriter.linux.1.1.3.nupkg.sha512",
+    "C:\\Users\\dinka\\.nuget\\packages\\system.componentmodel.composition\\4.7.0\\system.componentmodel.composition.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

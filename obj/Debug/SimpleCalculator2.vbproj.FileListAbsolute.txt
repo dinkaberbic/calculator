@@ -1,0 +1,5 @@
+C:\Users\dinka\Downloads\MEF_Sample__Simple_Calculator__Visual_Basic_\bin\Debug\System.ComponentModel.Composition.dll
+C:\Users\dinka\Downloads\MEF_Sample__Simple_Calculator__Visual_Basic_\bin\Debug\MefCalculator.dll
+C:\Users\dinka\Downloads\MEF_Sample__Simple_Calculator__Visual_Basic_\obj\Debug\SimpleCalculator2.vbprojAssemblyReference.cache
+C:\Users\dinka\Downloads\MEF_Sample__Simple_Calculator__Visual_Basic_\obj\Debug\SimpleCalculator2.AssemblyInfoInputs.cache
+C:\Users\dinka\Downloads\MEF_Sample__Simple_Calculator__Visual_Basic_\obj\Debug\SimpleCalculator2.AssemblyInfo.vb

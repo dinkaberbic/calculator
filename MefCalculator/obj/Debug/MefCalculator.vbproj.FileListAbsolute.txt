@@ -1,0 +1,5 @@
+C:\Users\dinka\Downloads\MEF_Sample__Simple_Calculator__Visual_Basic_\MefCalculator\bin\Debug\MefCalculator.deps.json
+C:\Users\dinka\Downloads\MEF_Sample__Simple_Calculator__Visual_Basic_\MefCalculator\bin\Debug\MefCalculator.dll
+C:\Users\dinka\Downloads\MEF_Sample__Simple_Calculator__Visual_Basic_\MefCalculator\obj\Debug\MefCalculator.vbprojAssemblyReference.cache
+C:\Users\dinka\Downloads\MEF_Sample__Simple_Calculator__Visual_Basic_\MefCalculator\obj\Debug\MefCalculator.AssemblyInfoInputs.cache
+C:\Users\dinka\Downloads\MEF_Sample__Simple_Calculator__Visual_Basic_\MefCalculator\obj\Debug\MefCalculator.AssemblyInfo.vb

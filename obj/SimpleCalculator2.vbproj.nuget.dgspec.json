@@ -1,0 +1,137 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dinka\\Downloads\\MEF_Sample__Simple_Calculator__Visual_Basic_\\SimpleCalculator2.vbproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dinka\\Downloads\\MEF_Sample__Simple_Calculator__Visual_Basic_\\MefCalculator\\MefCalculator.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dinka\\Downloads\\MEF_Sample__Simple_Calculator__Visual_Basic_\\MefCalculator\\MefCalculator.vbproj",
+        "projectName": "MefCalculator",
+        "projectPath": "C:\\Users\\dinka\\Downloads\\MEF_Sample__Simple_Calculator__Visual_Basic_\\MefCalculator\\MefCalculator.vbproj",
+        "packagesPath": "C:\\Users\\dinka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dinka\\Downloads\\MEF_Sample__Simple_Calculator__Visual_Basic_\\MefCalculator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dinka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Instana.Tracing.Core.Rewriter.Linux": {
+              "target": "Package",
+              "version": "[1.1.3, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.ComponentModel.Composition": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dinka\\Downloads\\MEF_Sample__Simple_Calculator__Visual_Basic_\\SimpleCalculator2.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dinka\\Downloads\\MEF_Sample__Simple_Calculator__Visual_Basic_\\SimpleCalculator2.vbproj",
+        "projectName": "SimpleCalculator2",
+        "projectPath": "C:\\Users\\dinka\\Downloads\\MEF_Sample__Simple_Calculator__Visual_Basic_\\SimpleCalculator2.vbproj",
+        "packagesPath": "C:\\Users\\dinka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dinka\\Downloads\\MEF_Sample__Simple_Calculator__Visual_Basic_\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dinka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\dinka\\Downloads\\MEF_Sample__Simple_Calculator__Visual_Basic_\\MefCalculator\\MefCalculator.vbproj": {
+                "projectPath": "C:\\Users\\dinka\\Downloads\\MEF_Sample__Simple_Calculator__Visual_Basic_\\MefCalculator\\MefCalculator.vbproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Instana.Tracing.Core.Rewriter.Linux": {
+              "target": "Package",
+              "version": "[1.1.3, )"
+            },
+            "System.ComponentModel.Composition": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

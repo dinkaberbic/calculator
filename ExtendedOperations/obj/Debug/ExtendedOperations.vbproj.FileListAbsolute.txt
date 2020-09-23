@@ -1,0 +1,3 @@
+C:\Users\dinka\Downloads\MEF_Sample__Simple_Calculator__Visual_Basic_\ExtendedOperations\obj\Debug\ExtendedOperations.vbprojAssemblyReference.cache
+C:\Users\dinka\Downloads\MEF_Sample__Simple_Calculator__Visual_Basic_\ExtendedOperations\obj\Debug\ExtendedOperations.AssemblyInfoInputs.cache
+C:\Users\dinka\Downloads\MEF_Sample__Simple_Calculator__Visual_Basic_\ExtendedOperations\obj\Debug\ExtendedOperations.AssemblyInfo.vb

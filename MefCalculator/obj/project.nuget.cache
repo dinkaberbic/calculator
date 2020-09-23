@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "IEwGYzIjGAOqqqPy3Yz/0MSRJ47PXq5pVxf3fKEmlmfy7XwR+KD0WEZmexEERsNFxsh+A9Ahpkyw7AE9JksJ5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dinka\\Downloads\\MEF_Sample__Simple_Calculator__Visual_Basic_\\MefCalculator\\MefCalculator.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dinka\\.nuget\\packages\\instana.tracing.core\\1.1.55\\instana.tracing.core.1.1.55.nupkg.sha512",
+    "C:\\Users\\dinka\\.nuget\\packages\\instana.tracing.core.rewriter.linux\\1.1.3\\instana.tracing.core.rewriter.linux.1.1.3.nupkg.sha512",
+    "C:\\Users\\dinka\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dinka\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\dinka\\.nuget\\packages\\system.componentmodel.composition\\4.7.0\\system.componentmodel.composition.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
